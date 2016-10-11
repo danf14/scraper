@@ -62,3 +62,6 @@ gem "nokogiri"
 
 #SSL Fix
 gem 'net_http_ssl_fix', require: 'net_http_ssl_fix'
+
+#UTF8 Utilities
+gem 'utf8_utils'
