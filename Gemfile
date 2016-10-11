@@ -53,3 +53,12 @@ gem 'simple_form'
 
 #Devise
 gem 'devise'
+
+#Validate_Url
+gem "validate_url"
+
+#Nokogiri
+gem "nokogiri"
+
+#SSL Fix
+gem 'net_http_ssl_fix', require: 'net_http_ssl_fix'
